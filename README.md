@@ -31,7 +31,7 @@ class VibhuPreetham:
         self.name        = "Vibhu Preetham"
         self.role        = "GenAI Intern @ Wipro Ltd"
         self.university  = "VIT Chennai | B.Tech CSE | Class of 2027"
-        self.location    = "Chennai, India 🇮🇳"
+        
 
         self.current_build = {
             "project"  : "Smart Compliance AI Platform",
@@ -208,8 +208,8 @@ jobs:
 ```
 🏗️  Smart Compliance AI Platform   — Agentic vuln mgmt for Citrix + MSPs
 📚  Striver's SDE Sheet            — 180-problem DSA grind for placements
-🤖  Agentic AI Roadmap             — LangGraph, CrewAI, AutoGen, MCP
-💼  Internship Applications        — Targeting SWE roles @ Cisco, Ellucian & beyond
+🤖  Agentic AI                     — LangGraph, CrewAI, AutoGen, MCP
+\
 ```
 
 ---
