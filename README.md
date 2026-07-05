@@ -112,8 +112,6 @@ class VibhuPreetham:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibhupreetham&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00b4d8&icon_color=7c3aed&text_color=caf0f8" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhupreetham&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=6" alt="Top Languages"/>
 
 </div>
 
