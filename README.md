@@ -4,7 +4,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&random=false&width=680&height=50&lines=%F0%9F%A4%96+Building+Agentic+AI+Systems;%F0%9F%9B%A1%EF%B8%8F+GenAI+Intern+%40+Wipro+Ltd;%F0%9F%A7%A0+LLMs+%7C+RAG+%7C+Vector+DBs+%7C+Agentic+Pipelines;%F0%9F%94%90+Cybersecurity+%2B+ML+%2B+Full-Stack;%F0%9F%8E%93+CSE+%40+VIT+Chennai+%7C+Class+of+2027" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&random=false&width=680&height=50&lines=%F0%9F%A4%96+Building+Agentic+AI+Systems;%F0%9F%9B%A1%EF%B8%8F+GenAI+Intern+%40+Wipro+Ltd;%F0%9F%A7%A0+LLMs+%7C+RAG+%7C+Vector+DBs+%7C+Agentic+Pipelines;%F0%9F%94%90+%2B+ML+%2B+Full-Stack;%F0%9F%8E%93+CSE+%40+VIT+Chennai+%7C+Class+of+2027" alt="Typing Animation" />
 
 </div>
 
